@@ -1,5 +1,7 @@
 # vehicle-engineering-passion-
-Autonomous Vehicle 
+Vehicle/Hardware Engineering Project
+
+Achieved real-time obstacle avoidance capabilities by designing custom circuits (including I4 nodes) and sensor logic in C/Java. Developed dynamic user feedback systems incorporating an LCD screen, LED indicators, and a speaker to accurately communicate vehicle status.
 
 
 <img width="240" height="320" alt="Image" src="https://github.com/user-attachments/assets/051b5956-49e5-4cfc-8494-1a9a137bedc3" />
